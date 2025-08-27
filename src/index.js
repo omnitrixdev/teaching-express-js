@@ -5,6 +5,7 @@ const app = express();
 const PORT = 3000;
 
 app.use(express.json());
+// Database Password: @Muhajir123
 
 // Get, Post, Put, Delete, Patch, Options, Head, All
 
